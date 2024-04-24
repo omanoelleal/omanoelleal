@@ -49,3 +49,12 @@
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omanoelleal&layout=compact&langs_count=6&theme=calm_pink&disable_animations=false&" />
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api?username=omanoelleal&show_icons=true&include_all_commits=false&count_private=true&theme=calm_pink&disable_animations=false&show=reviews&"/>
 </div>
+
+---
+
+<div align="center">
+  <a href="https://instagram.com/im.manoel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:manoel.leal17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/manoelleal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
