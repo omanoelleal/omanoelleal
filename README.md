@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  ## SkillSet:
+  ## SkillSet 💻:
 
 <br>
   
@@ -50,6 +50,7 @@
 <div align="center">  
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omanoelleal&layout=compact&langs_count=6&theme=calm_pink&disable_animations=false&" />
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api?username=omanoelleal&show_icons=true&include_all_commits=false&count_private=true&theme=calm_pink&disable_animations=false&show=reviews&"/>
+  <img width="41%" height="190px" src="http://github-readme-streak-stats.herokuapp.com?user=omanoelleal&theme=calm_pink&date_format=j%20M%5B%20Y%5D)"/>
 </div>
 
 ---
