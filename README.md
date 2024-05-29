@@ -23,8 +23,8 @@
   ![amazonwebservices](https://img.shields.io/badge/-AWS-333333?style=plastic&logo=amazonwebservices&color=232F3E&logoColor=white)
   ![hadoop](https://img.shields.io/badge/-Hadoop-333333?style=plastic&logo=apachehadoop&color=66CCFF&logoColor=black)
   ![hive](https://img.shields.io/badge/-Hive-333333?style=plastic&logo=apachehive&color=FDEE21&logoColor=black)
-  ![html5](https://img.shields.io/badge/-HTML-333333?style=plastic&logo=html5&color=E34F26&logoColor=white)
   
+  ![html5](https://img.shields.io/badge/-HTML-333333?style=plastic&logo=html5&color=E34F26&logoColor=white)  
   ![javascript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript&color=F7DF1E&logoColor=black)
   ![json](https://img.shields.io/badge/-JSON-333333?style=plastic&logo=json&color=000000&logoColor=white)
   ![php](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=php&color=777BB4&logoColor=white)
