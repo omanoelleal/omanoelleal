@@ -20,14 +20,15 @@
   ![github](https://img.shields.io/badge/-Github-333333?style=plastic&logo=github&color=181717&logoColor=white)
   ![googlecloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=plastic&logo=googlecloud&color=4285F4&logoColor=white)
   ![googlebigquery](https://img.shields.io/badge/-Google%20Big%20Query-333333?style=plastic&logo=googlebigquery&color=669DF6&logoColor=white)
+  
   ![amazonwebservices](https://img.shields.io/badge/-AWS-333333?style=plastic&logo=amazonwebservices&color=232F3E&logoColor=white)
   ![hadoop](https://img.shields.io/badge/-Hadoop-333333?style=plastic&logo=apachehadoop&color=66CCFF&logoColor=black)
   ![hive](https://img.shields.io/badge/-Hive-333333?style=plastic&logo=apachehive&color=FDEE21&logoColor=black)
-  
   ![html5](https://img.shields.io/badge/-HTML-333333?style=plastic&logo=html5&color=E34F26&logoColor=white)
   ![javascript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript&color=F7DF1E&logoColor=black)
   ![json](https://img.shields.io/badge/-JSON-333333?style=plastic&logo=json&color=000000&logoColor=white)
   ![php](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=php&color=777BB4&logoColor=white)
+  
   ![laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=laravel&color=FF2D20&logoColor=white)
   ![linux](https://img.shields.io/badge/-Linux-333333?style=plastic&logo=linux&color=FCC624&logoColor=black)
   ![ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=plastic&logo=ubuntu&color=E95420&logoColor=white)
@@ -35,8 +36,8 @@
   ![macos](https://img.shields.io/badge/-macOS-333333?style=plastic&logo=macos&color=000000&logoColor=white)
   ![mariadb](https://img.shields.io/badge/-MariaDB-333333?style=plastic&logo=mariadb&color=003545&logoColor=white)
   ![mysql](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql&color=4479A1&logoColor=white)
-  
   ![sqlserver](https://img.shields.io/badge/-SQLServer-333333?style=plastic&logo=microsoftsqlserver&color=CC2927&logoColor=white)
+  
   ![mongodb](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb&color=47A248&logoColor=white)
   ![oracle](https://img.shields.io/badge/-Oracle-333333?style=plastic&logo=oracle&color=F80000&logoColor=white)
   ![python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&color=3776AB&logoColor=white)
