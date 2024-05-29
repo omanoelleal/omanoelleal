@@ -33,9 +33,9 @@
   ![ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=plastic&logo=ubuntu&color=E95420&logoColor=white)
   ![windows](https://img.shields.io/badge/-Windows-333333?style=plastic&logo=windows&color=0078D4&logoColor=white)
   ![macos](https://img.shields.io/badge/-macOS-333333?style=plastic&logo=macos&color=000000&logoColor=white)
-  
   ![mariadb](https://img.shields.io/badge/-MariaDB-333333?style=plastic&logo=mariadb&color=003545&logoColor=white)
   ![mysql](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql&color=4479A1&logoColor=white)
+  
   ![sqlserver](https://img.shields.io/badge/-SQLServer-333333?style=plastic&logo=microsoftsqlserver&color=CC2927&logoColor=white)
   ![mongodb](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb&color=47A248&logoColor=white)
   ![oracle](https://img.shields.io/badge/-Oracle-333333?style=plastic&logo=oracle&color=F80000&logoColor=white)
