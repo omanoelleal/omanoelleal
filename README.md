@@ -28,8 +28,8 @@
   ![javascript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript&color=F7DF1E&logoColor=black)
   ![json](https://img.shields.io/badge/-JSON-333333?style=plastic&logo=json&color=000000&logoColor=white)
   ![php](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=php&color=777BB4&logoColor=white)
-  
   ![laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=laravel&color=FF2D20&logoColor=white)
+  
   ![linux](https://img.shields.io/badge/-Linux-333333?style=plastic&logo=linux&color=FCC624&logoColor=black)
   ![ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=plastic&logo=ubuntu&color=E95420&logoColor=white)
   ![windows](https://img.shields.io/badge/-Windows-333333?style=plastic&logo=windows&color=0078D4&logoColor=white)
@@ -37,9 +37,9 @@
   ![mariadb](https://img.shields.io/badge/-MariaDB-333333?style=plastic&logo=mariadb&color=003545&logoColor=white)
   ![mysql](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql&color=4479A1&logoColor=white)
   ![sqlserver](https://img.shields.io/badge/-SQLServer-333333?style=plastic&logo=microsoftsqlserver&color=CC2927&logoColor=white)
-  
   ![mongodb](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb&color=47A248&logoColor=white)
   ![oracle](https://img.shields.io/badge/-Oracle-333333?style=plastic&logo=oracle&color=F80000&logoColor=white)
+  
   ![python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&color=3776AB&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=plastic&logo=arduino&color=00878F&logoColor=white)
   ![raspberrypi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=plastic&logo=raspberrypi&color=A22846&logoColor=white)
