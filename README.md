@@ -1,12 +1,14 @@
 <div align="center">
-  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Manoel+Leal!😜;I'm+38+years+old;I'm+from+Brazil%2C+Rio+de+Janeiro+-+RJ;I+live+in+Portugal%2C+Porto;I'm+a+Data+Engineer+at+NOS;Welcome!;Don't+forget+to+follow+me!)](https://git.io/typing-svg)
+
 <img src = "https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width = "325px">
-  
-## Hi, I am Manoel Leal! :octocat:
 
 </div>
 
 <div align="center">
+
+  <br>
 
   ## SkillSet 💻:
 
@@ -71,5 +73,3 @@
   [![Whatsapp](https://img.shields.io/badge/-913996410-25d366?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=%2B351913996410)](https://api.whatsapp.com/send/?phone=%2B351913996410)
   [![Instagram](https://img.shields.io/badge/-im.manoel-%23E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/im.manoel)](https://instagram.com/im.manoel)
   [![GitHub](https://img.shields.io/github/followers/omanoelleal?label=follow&style=social)](https://github.com/omanoelleal/omanoelleal)
-    
-</div>
