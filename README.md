@@ -19,6 +19,8 @@
   ![amazonwebservices](https://img.shields.io/badge/-AWS-333333?style=plastic&logo=amazonwebservices&color=232F3E&logoColor=white)
   ![python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&color=3776AB&logoColor=white)
   ![terraform](https://img.shields.io/badge/-Terraform-333333?style=plastic&logo=terraform&color=844FBA&logoColor=white)
+  ![Airflow](https://img.shields.io/badge/-Airflow-2196F3?style=plastic&logo=Apache%20Airflow&logoColor=white)
+
 
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=css3&color=1572B6&logoColor=white)
