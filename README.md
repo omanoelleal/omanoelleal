@@ -96,7 +96,8 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=omanoelleal&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omanoelleal&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omanoelleal&theme=tokyonight" />
 
 <br><br>
 
