@@ -1,87 +1,104 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Manoel+Leal!😜;I'm+39+years+old;I'm+from+Brazil%2C+Rio+de+Janeiro+-+RJ;I+live+in+Portugal%2C+Porto;I'm+a+Data+Engineer+at+NOS;Welcome!;Don't+forget+to+follow+me!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header" width="100%"/>
 
-<img src = "https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width = "325px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&color=58A6FF&size=32&center=true&vCenter=true&width=800&pause=1000&lines=Manoel+Leal;Data+Engineer;Brazil+%E2%86%92+Portugal)](https://git.io/typing-svg)
 
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/manoelleal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:manoel.leal17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B351913996410"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://instagram.com/im.manoel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/omanoelleal"><img src="https://img.shields.io/github/followers/omanoelleal?style=for-the-badge&logo=github&label=Follow&color=181717"/></a>
+</p>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="80%"/>
 
-  <br>
-
-  ## 💻 Tech Stack
-
-<br>
-
-  ![Apache Spark](https://img.shields.io/badge/-Spark-333333?style=plastic&logo=apachespark&color=E25A1C&logoColor=white)
-  ![googlecloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=plastic&logo=googlecloud&color=4285F4&logoColor=white)
-  ![amazonwebservices](https://img.shields.io/badge/-AWS-333333?style=plastic&logo=amazonwebservices&color=232F3E&logoColor=white)
-  ![python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&color=3776AB&logoColor=white)
-  ![terraform](https://img.shields.io/badge/-Terraform-333333?style=plastic&logo=terraform&color=844FBA&logoColor=white)
-  ![Airflow](https://img.shields.io/badge/-Airflow-2196F3?style=plastic&logo=Apache%20Airflow&logoColor=white)
-
-
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=css3&color=1572B6&logoColor=white)
-  ![html5](https://img.shields.io/badge/-HTML-333333?style=plastic&logo=html5&color=E34F26&logoColor=white)
-  ![javascript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript&color=F7DF1E&logoColor=black)
-  ![json](https://img.shields.io/badge/-JSON-333333?style=plastic&logo=json&color=000000&logoColor=white)
-  ![laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=laravel&color=FF2D20&logoColor=white)
-  ![php](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=php&color=777BB4&logoColor=white)
-  
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=plastic&logo=arduino&color=00878F&logoColor=white)
-  ![hadoop](https://img.shields.io/badge/-Hadoop-333333?style=plastic&logo=apachehadoop&color=66CCFF&logoColor=black)
-  ![linux](https://img.shields.io/badge/-Linux-333333?style=plastic&logo=linux&color=FCC624&logoColor=black)
-  ![macos](https://img.shields.io/badge/-macOS-333333?style=plastic&logo=macos&color=000000&logoColor=white)
-  ![raspberrypi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=plastic&logo=raspberrypi&color=A22846&logoColor=white)
-  ![orangepi](https://img.shields.io/badge/-Orange%20Pi-333333?style=plastic&logo=orangepi&color=FF7900&logoColor=white)
-  ![ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=plastic&logo=ubuntu&color=E95420&logoColor=white)
-  ![windows](https://img.shields.io/badge/-Windows-333333?style=plastic&logo=windows&color=0078D4&logoColor=white)
-  
-  ![hive](https://img.shields.io/badge/-Hive-333333?style=plastic&logo=apachehive&color=FDEE21&logoColor=black)
-  ![googlebigquery](https://img.shields.io/badge/-Google%20Big%20Query-333333?style=plastic&logo=googlebigquery&color=669DF6&logoColor=white)
-  ![mariadb](https://img.shields.io/badge/-MariaDB-333333?style=plastic&logo=mariadb&color=003545&logoColor=white)
-  ![mongodb](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb&color=47A248&logoColor=white)
-  ![mysql](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql&color=4479A1&logoColor=white)
-  ![oracle](https://img.shields.io/badge/-Oracle-333333?style=plastic&logo=oracle&color=F80000&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
-  ![sqlserver](https://img.shields.io/badge/-SQLServer-333333?style=plastic&logo=microsoftsqlserver&color=CC2927&logoColor=white)
-  ![dbeaver](https://img.shields.io/badge/-DBeaver-333333?style=plastic&logo=dbeaver&color=382923&logoColor=white)
-
-  ![docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker&color=2496ED&logoColor=white)
-  ![git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git&color=F05032&logoColor=white)
-  ![github](https://img.shields.io/badge/-Github-333333?style=plastic&logo=github&color=181717&logoColor=white)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
-  ![vscode](https://img.shields.io/badge/-Visual%20Code-333333?style=plastic&logo=visualstudiocode&color=007ACC&logoColor=white)
-  ![powerbi](https://img.shields.io/badge/-Power%20BI-333333?style=plastic&logo=powerbi&color=F2C811&logoColor=black)
-  ![powerapps](https://img.shields.io/badge/-Power%20Apps-333333?style=plastic&logo=powerapps&color=742774&logoColor=white)
-  ![powerautomate](https://img.shields.io/badge/-Power%20Automate-333333?style=plastic&logo=powerautomate&color=0066FF&logoColor=white)
-   
-</div>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-</div>
-
-<div align="center">  
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omanoelleal&layout=compact&langs_count=6&theme=calm_pink&disable_animations=false&" />
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api?username=omanoelleal&show_icons=true&include_all_commits=false&count_private=true&theme=calm_pink&disable_animations=false&show=reviews&"/>
-<!--   <img width="41%" height="190px" src="http://github-readme-streak-stats.herokuapp.com?user=omanoelleal&theme=calm_pink&date_format=j%20M%5B%20Y%5D)"/> -->
 </div>
 
 <br>
 
 <div align="center">
 
-## 🌐 Socials
-  
-  [![Linkedin](https://img.shields.io/badge/-manoelleal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelleal)](https://www.linkedin.com/in/manoelleal)
-  [![Gmail](https://img.shields.io/badge/-manoel.leal17-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:manoel.leal17)](mailto:manoel.leal17@gmail.com)
-  [![Whatsapp](https://img.shields.io/badge/-913996410-25d366?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=%2B351913996410)](https://api.whatsapp.com/send/?phone=%2B351913996410)
-  [![Instagram](https://img.shields.io/badge/-im.manoel-%23E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/im.manoel)](https://instagram.com/im.manoel)
-  [![GitHub](https://img.shields.io/github/followers/omanoelleal?label=follow&style=social)](https://github.com/omanoelleal/omanoelleal)
+### About Me
 
-[![](https://visitcount.itsvg.in/api?id=omanoelleal&icon=7&color=2)](https://visitcount.itsvg.in)
+</div>
+
+```text
+🏢  Data Engineer @ NOS · Porto, Portugal
+🌍  Originally from Rio de Janeiro, Brazil
+☁️  Cloud-native pipelines · GCP · AWS
+⚙️  Apache Spark · Airflow · Terraform · Python
+🗄️  BigQuery · SQL Server · MongoDB · Oracle
+```
+
+<br>
+
+---
+
+<div align="center">
+
+### Cloud & Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+### Web & Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<br>
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omanoelleal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=omanoelleal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<br><br>
+
+[![](https://visitcount.itsvg.in/api?id=omanoelleal&icon=5&color=9)](https://visitcount.itsvg.in)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer" width="100%"/>
