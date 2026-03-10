@@ -92,8 +92,11 @@
 
 <br>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omanoelleal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=omanoelleal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=omanoelleal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=omanoelleal&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 <br><br>
 
